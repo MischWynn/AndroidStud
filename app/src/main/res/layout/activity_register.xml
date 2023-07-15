@@ -8,7 +8,7 @@
     android:paddingRight="4dp"
     android:paddingLeft="4dp"
     android:paddingTop="10dp"
-    android:background="@drawable/background_1"
+    android:background="@drawable/background_2"
     tools:context=".RegisterActivity">
 
     <EditText
